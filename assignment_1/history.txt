@@ -1,0 +1,179 @@
+    1  ssh student20@gw.cita.utoronto.ca/cita/local/bin/passwd
+    2  /cita/local/bin/passwd
+    3  echo $0
+    4  cd
+    5  wd
+    6  pwd
+    7  cd
+    8  cd ~murray
+    9  exit
+   10  cd ~murray
+   11  pwd
+   12  cd /papers
+   13  ls
+   14  cd Papers
+   15  pwd
+   16  cd Hopkins/
+   17  cd All_Feedback/
+   18  cd second_draft/
+   19  evince sfh_vs_fbmodel.pdf 
+   20  pwd
+   21  cd ..
+   22  pwd
+   23  cd ...
+   24  cd ..
+   25  pwd
+   26  ls -la
+   27  cd tmp
+   28  pwd
+   29  ls -la
+   30  cd ..
+   31  pwd
+   32  ls -la
+   33  cd scintillation
+   34  cd Scintillation
+   35  cd XRB
+   36  ls -la
+   37  more
+   38  more --help
+   39  more ms.tex 
+   40  pwd
+   41  cd ..
+   42  pwd
+   43  cd
+   44  mkdir
+   45  mkdir test
+   46  pwd
+   47  ls -la
+   48  rm test/
+   49  cd test/
+   50  ls -la
+   51  ls -la > test.txt
+   52  ls-la
+   53  ls -la
+   54  vi test.txt 
+   55  python3
+   56  module load gcc
+   57  gcc
+   58  gcc --version
+   59  cd scratch/lustre
+   60  cd scratch/lustre/
+   61  cd scratch-lustre/
+   62  pwd
+   63  /cd
+   64  cd
+   65  cd mnt
+   66  cd /mnt
+   67  pwd
+   68  cd /scratch-lustre
+   69  cd /scratch-lustre/
+   70  cd scratch-lustre/
+   71  cd student20
+   72  pwd
+   73  mkdir CTA200_2022
+   74  ls -la
+   75  cd CTA200_2022/
+   76  mkdir assignment_1
+   77  vi README.md
+   78  README.md
+   79  evince README.md
+   80  vi README.md 
+   81  cd
+   82  cd ~murray
+   83  cd
+   84  cd /mnt/scratch-lustre/student20
+   85  pushd
+   86  pwd
+   87  cd
+   88  cd ~murray
+   89  pushd
+   90  pushd --help
+   91  pwd
+   92  pushd pwd
+   93  pushd /home/murray
+   94  cd
+   95  cd /mnt/scratch-lustre/student20
+   96  pushd /mnt/scratch-lustre/student20
+   97  /pushd
+   98  pushd
+   99  pwd
+  100  pushd
+  101  pwd
+  102  pushd -1
+  103  pushd
+  104  pwd
+  105  pushd
+  106  pwd
+  107  pushd
+  108  pwd
+  109  pushd
+  110  popd
+  111  pushd
+  112  pwd
+  113  pushd
+  114  find Hell
+  115  find Hell*
+  116  find --help
+  117  find . He*
+  118  quit
+  119  pushd
+  120  find . Hello_world.*
+  121  quit
+  122  find . "Hello_world.*"
+  123  find . -name "Hello_world.*"
+  124  pwd
+  125  ls -la
+  126  find . -name "Hello_world.*"
+  127  grep --help
+  128  grep | find . -name "Hello_world.*"
+  129  cd tmp/
+  130  ls -la
+  131  cp --help
+  132  cp ./Hello_world.py pushd
+  133  cp ./Hello_world.py /mnt/scratch-lustre/student20/CTA200_2022/assignment_1/
+  134  pwd
+  135  cd ..
+  136  cd Papers
+  137  cd tmp/
+  138  cp ./Hello_world.c /mnt/scratch-lustre/student20/CTA200_2022/assignment_1/
+  139  pwd
+  140  pushd
+  141  cd CTA200_2022/
+  142  cd assignment_1/
+  143  ls -la
+  144  mv --help
+  145  pwd
+  146  mv Hello_world.c Hello_world_Sachdeva.c
+  147  mv Hello_world.py Hello_world_Sachdeva.py
+  148  ls -la
+  149  load module gcc
+  150  module load gcc
+  151  gcc Hello_world_Sachdeva.c
+  152  pwd
+  153  ls -ld
+  154  ls -la
+  155  mv a.out Hello_world.x
+  156  ls -la
+  157  ./Hello_world.x 
+  158  ./Hello_world_Sachdeva.py
+  159  python3
+  160  module load python3
+  161  module load python
+  162  ./Hello_world.py
+  163  ./Hello_world_Sachdeva.py
+  164  python3 Hello_world_Sachdeva.py
+  165  vi Hello_world_Sachdeva.py
+  166  vi Hello_world_Sachdeva.c
+  167  python3 Hello_world_Sachdeva.py
+  168  gcc Hello_world_Sachdeva.c
+  169  ls -la
+  170  a.out
+  171  ./a.out
+  172  vi Hello_world_Sachdeva.py
+  173  python3 Hello_world_Sachdeva.py
+  174  ./a.out > output_c.txt
+  175  python3 Hello_world_Sachdeva.py > output_python.txt
+  176  ls -la
+  177  history --help
+  178  history
+  179  history > history.txt
