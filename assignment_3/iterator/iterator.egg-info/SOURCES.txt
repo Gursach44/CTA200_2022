@@ -1,0 +1,8 @@
+README.md
+setup.py
+iterator/__init__.py
+iterator/iterator.py
+iterator.egg-info/PKG-INFO
+iterator.egg-info/SOURCES.txt
+iterator.egg-info/dependency_links.txt
+iterator.egg-info/top_level.txt
